@@ -1,0 +1,30 @@
+
+body{
+    background-color: yellow;
+    color: blue;
+    margin: 30px;
+}
+
+ol{
+    color:darkblue;
+    border: 10px dashed;
+    padding: 20px;
+}
+
+ul {
+    color:blueviolet;
+    border: 10px dotted;
+    padding: 20px;
+}
+
+p {
+    color:brown;
+    padding: 50px;
+}
+
+img{
+    float: right;
+    border-radius: 160px;
+    border-radius: 100%;
+    padding: 20px;
+}
